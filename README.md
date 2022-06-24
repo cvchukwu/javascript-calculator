@@ -1,7 +1,5 @@
 # cvchukwu - Basic Javascript calculator solution
 
-
-
 ## Overview
 
 ### The challenge
@@ -28,5 +26,5 @@ Build a basic arithmetic calculator without a frontend
 
 ## Acknowledgments
 
-
+A big 'Thank You' to the entire zuri + ingressive 4 good team for the internship, and I also want to specially thank Miss Faith Onome ofogba for her encouragement and contribution.
  
