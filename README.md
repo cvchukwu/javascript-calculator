@@ -10,7 +10,7 @@ Build a basic arithmetic calculator without a frontend
 
 ### Links
 
-- Solution URL: https://cvchukwu.github.io/3-column-card-using-Flexbox/
+- Solution URL: https://github.com/cvchukwu/javascript-calculator
 - Live Site URL: https://cvchukwu.github.io/3-column-card-using-Flexbox/
 
 ## My process
