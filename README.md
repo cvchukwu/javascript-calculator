@@ -11,7 +11,7 @@ Build a basic arithmetic calculator without a frontend
 ### Links
 
 - Solution URL: https://github.com/cvchukwu/javascript-calculator
-- Live Site URL: https://cvchukwu.github.io/3-column-card-using-Flexbox/
+- Live Site URL: https://cvchukwu.github.io/javascript-calculator/
 
 ## My process
 
